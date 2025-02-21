@@ -1,8 +1,7 @@
 # Solved Exercise Week 3
 
 ## Overview
-The five Python programming tasks in this exercise focus on **lambda expressions**, **functions**, and **object-oriented programming (OOP)** concepts.  
-I completed this assignment using **Jupyter Notebook**.
+The five Python programming tasks in this exercise focus on **lambda expressions**, **functions**, and **object-oriented programming (OOP)** concepts. I completed this assignment using **Jupyter Notebook**.
 
 ## Task Overview
 
